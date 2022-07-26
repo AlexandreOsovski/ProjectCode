@@ -1,3 +1,3 @@
 <?php 
 
-header('Location: /todos/htmnl/corpoProjetoLogin.html');
+header('Location: ../html/corpoProjetoLogin.html');
